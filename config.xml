@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="net.tonymcgee.ColorPicker" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US">
-  <name>ColorPickerApp</name>
-  <description>Simple color picker application.</description>
+  <name>Color Picker</name>
+  <description>Simple color picker application</description>
   <author href="http://www.tonymcgee.net" email="tmcgee.au@gmail.com">Tony McGee</author>
   <content src="index.html" />
   <vs:features />
