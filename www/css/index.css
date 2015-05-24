@@ -1,2 +1,41 @@
 ﻿body {
 }
+
+.sliderPanel {
+    padding-top: 10px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.controlContainer {
+    margin: 0px auto;
+    text-align: center;
+}
+
+.controlPanel {
+    display:inline-block;
+    border-radius: 8px;
+    padding: 5px 10px 5px 10px;
+    background-color: black;
+    color: white;
+}
+
+.rgbSlider {
+    padding: 5px 0px 5px 0px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#controlHex {
+    padding-left: 10px;
+    font-family: monospace;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#controlWebSafe {
+    display: inline-block;
+    padding-left: 10px
+}
+
+
